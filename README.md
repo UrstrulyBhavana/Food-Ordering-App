@@ -1,5 +1,6 @@
 # Food-Ordering-App Config Driven UI
 EveryComponent in one App.js
+
  API endpoint for Swiggy 
 https://www.swiggy.com/dapi/restaurants/list/v5/?lat=12.9351929&lng=77.62448069999999&page_type=DESKTOP_WEB_LISTING
 [ This URL contains a large dataset in JSON format, which includes detailed information about restaurants in the specific location.
